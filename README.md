@@ -33,10 +33,5 @@ Memento Studio es una plataforma web premium diseñada para fusionar el arte fot
     npm run dev
     ```
 
-## 📊 Arquitectura de Datos
-El proyecto consume datos de dos pestañas independientes de Google Sheets:
-- **Cuadros**: Pestaña GID `0`
-- **Tejidos**: Pestaña GID `1668974614`
-
 ---
 *Desarrollado con pasión para Memento Studio.* 📸🧶
